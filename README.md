@@ -1,4 +1,3 @@
 gpio-tool
 =========
-
-tool for gpio playtime
+![teddy](/teddy.jpg "teddy")
